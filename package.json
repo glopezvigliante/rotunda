@@ -9,7 +9,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "underscore": "^1.9.2"
-  }
+  "dependencies": {}
 }
